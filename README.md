@@ -1,5 +1,4 @@
-JavaFX Hello World Demo
-=======================
+JavaFX Bi Binding Demo
+======================
 
-Show a window with `Hello, JavaFX` label.
-
+Bind TextFields and Labels together.
